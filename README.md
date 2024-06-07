@@ -1,1 +1,2 @@
-# jenkins_scripts_Lquatros_workk
+# jenkins_scripts_Lquatros_work
+Learning steps
