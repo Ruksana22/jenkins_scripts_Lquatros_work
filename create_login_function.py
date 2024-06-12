@@ -23,5 +23,7 @@ u_password.send_keys('abcddddddd')
 u_login_button = driver.find_element(By.CSS_SELECTOR,'#login-button')
 u_login_button.click()
 
+print ("Test has been successfully completed")
+
 
 
